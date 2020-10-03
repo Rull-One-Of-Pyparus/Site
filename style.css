@@ -67,28 +67,29 @@ a {
 }
 /*---------------------------------------------------------------------------------------------*/
 #quick {
-   margin-top: 250px;
-   margin-bottom: 300px;
+   margin-top: 270px;
    display: flex;
    flex-direction: row;
    justify-content: center;
    align-items: center;
-   text-align: center;
+   text-align: left;
    color: white;
    font-family: Arial, Helvetica, sans-serif;
 }
 /*---------------------------------------------------------------------------------------------*/
 #key {
+   margin-top: 150px;
    display: flex;
    flex-direction: row-reverse;
    justify-content: space-around;
+   align-items: center;
    color: white;
    text-align: center;
    font-family: Arial, Helvetica, sans-serif;
 }
 /*---------------------------------------------------------------------------------------------*/
 .team {
-   margin-top: 100px;
+   margin-top: 220px;
    text-align: center;
    color: black;
    font-family: Arial, Helvetica, sans-serif;
